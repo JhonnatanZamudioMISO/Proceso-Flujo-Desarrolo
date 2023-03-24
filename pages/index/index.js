@@ -4,7 +4,7 @@ Page({
     console.info(`Page onLoad with query: ${JSON.stringify(query)}`);
   },
   onReady() {
-    // 页面加载完成
+    // 页面加载完成 seguimos haciendo modificaciones
   },
   onShow() {
     // 页面显示
